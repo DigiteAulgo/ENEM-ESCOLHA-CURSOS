@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moyse\\OneDrive\\Documentos\\ZumbiBlocks2Backups\\Nova pasta\\ENEM ESCOLHA CURSOS\\AppCursosUniversitarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{200B7BF2-B4F9-4D8C-B53F-42175B8332EE}|AppCursosUniversitarios.csproj|c:\\users\\moyse\\onedrive\\documentos\\zumbiblocks2backups\\nova pasta\\enem escolha cursos\\appcursosuniversitarios\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200B7BF2-B4F9-4D8C-B53F-42175B8332EE}|AppCursosUniversitarios.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200B7BF2-B4F9-4D8C-B53F-42175B8332EE}|AppCursosUniversitarios.csproj|c:\\users\\moyse\\onedrive\\documentos\\zumbiblocks2backups\\nova pasta\\enem escolha cursos\\appcursosuniversitarios\\controllers\\escolhacursoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200B7BF2-B4F9-4D8C-B53F-42175B8332EE}|AppCursosUniversitarios.csproj|solutionrelative:controllers\\escolhacursoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200B7BF2-B4F9-4D8C-B53F-42175B8332EE}|AppCursosUniversitarios.csproj|c:\\users\\moyse\\onedrive\\documentos\\zumbiblocks2backups\\nova pasta\\enem escolha cursos\\appcursosuniversitarios\\controllers\\cursoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200B7BF2-B4F9-4D8C-B53F-42175B8332EE}|AppCursosUniversitarios.csproj|solutionrelative:controllers\\cursoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200B7BF2-B4F9-4D8C-B53F-42175B8332EE}|AppCursosUniversitarios.csproj|c:\\users\\moyse\\onedrive\\documentos\\zumbiblocks2backups\\nova pasta\\enem escolha cursos\\appcursosuniversitarios\\controllers\\alunoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200B7BF2-B4F9-4D8C-B53F-42175B8332EE}|AppCursosUniversitarios.csproj|solutionrelative:controllers\\alunoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200B7BF2-B4F9-4D8C-B53F-42175B8332EE}|AppCursosUniversitarios.csproj|c:\\users\\moyse\\onedrive\\documentos\\zumbiblocks2backups\\nova pasta\\enem escolha cursos\\appcursosuniversitarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200B7BF2-B4F9-4D8C-B53F-42175B8332EE}|AppCursosUniversitarios.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200B7BF2-B4F9-4D8C-B53F-42175B8332EE}|AppCursosUniversitarios.csproj|c:\\users\\moyse\\onedrive\\documentos\\zumbiblocks2backups\\nova pasta\\enem escolha cursos\\appcursosuniversitarios\\models\\dbcursosuniversitarioscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200B7BF2-B4F9-4D8C-B53F-42175B8332EE}|AppCursosUniversitarios.csproj|solutionrelative:models\\dbcursosuniversitarioscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200B7BF2-B4F9-4D8C-B53F-42175B8332EE}|AppCursosUniversitarios.csproj|c:\\users\\moyse\\onedrive\\documentos\\zumbiblocks2backups\\nova pasta\\enem escolha cursos\\appcursosuniversitarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{200B7BF2-B4F9-4D8C-B53F-42175B8332EE}|AppCursosUniversitarios.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\moyse\\OneDrive\\Documentos\\ZumbiBlocks2Backups\\Nova pasta\\ENEM ESCOLHA CURSOS\\AppCursosUniversitarios\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\moyse\\OneDrive\\Documentos\\ZumbiBlocks2Backups\\Nova pasta\\ENEM ESCOLHA CURSOS\\AppCursosUniversitarios\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T18:44:42.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EscolhaCursoesController.cs",
+              "DocumentMoniker": "C:\\Users\\moyse\\OneDrive\\Documentos\\ZumbiBlocks2Backups\\Nova pasta\\ENEM ESCOLHA CURSOS\\AppCursosUniversitarios\\Controllers\\EscolhaCursoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EscolhaCursoesController.cs",
+              "ToolTip": "C:\\Users\\moyse\\OneDrive\\Documentos\\ZumbiBlocks2Backups\\Nova pasta\\ENEM ESCOLHA CURSOS\\AppCursosUniversitarios\\Controllers\\EscolhaCursoesController.cs",
+              "RelativeToolTip": "Controllers\\EscolhaCursoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T18:38:54.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CursoesController.cs",
+              "DocumentMoniker": "C:\\Users\\moyse\\OneDrive\\Documentos\\ZumbiBlocks2Backups\\Nova pasta\\ENEM ESCOLHA CURSOS\\AppCursosUniversitarios\\Controllers\\CursoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CursoesController.cs",
+              "ToolTip": "C:\\Users\\moyse\\OneDrive\\Documentos\\ZumbiBlocks2Backups\\Nova pasta\\ENEM ESCOLHA CURSOS\\AppCursosUniversitarios\\Controllers\\CursoesController.cs",
+              "RelativeToolTip": "Controllers\\CursoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T18:35:12.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlunoesController.cs",
+              "DocumentMoniker": "C:\\Users\\moyse\\OneDrive\\Documentos\\ZumbiBlocks2Backups\\Nova pasta\\ENEM ESCOLHA CURSOS\\AppCursosUniversitarios\\Controllers\\AlunoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AlunoesController.cs",
+              "ToolTip": "C:\\Users\\moyse\\OneDrive\\Documentos\\ZumbiBlocks2Backups\\Nova pasta\\ENEM ESCOLHA CURSOS\\AppCursosUniversitarios\\Controllers\\AlunoesController.cs",
+              "RelativeToolTip": "Controllers\\AlunoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T18:28:12.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moyse\\OneDrive\\Documentos\\ZumbiBlocks2Backups\\Nova pasta\\ENEM ESCOLHA CURSOS\\AppCursosUniversitarios\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\moyse\\OneDrive\\Documentos\\ZumbiBlocks2Backups\\Nova pasta\\ENEM ESCOLHA CURSOS\\AppCursosUniversitarios\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T18:18:49.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbCursosUniversitariosContext.cs",
+              "DocumentMoniker": "C:\\Users\\moyse\\OneDrive\\Documentos\\ZumbiBlocks2Backups\\Nova pasta\\ENEM ESCOLHA CURSOS\\AppCursosUniversitarios\\Models\\dbCursosUniversitariosContext.cs",
+              "RelativeDocumentMoniker": "Models\\dbCursosUniversitariosContext.cs",
+              "ToolTip": "C:\\Users\\moyse\\OneDrive\\Documentos\\ZumbiBlocks2Backups\\Nova pasta\\ENEM ESCOLHA CURSOS\\AppCursosUniversitarios\\Models\\dbCursosUniversitariosContext.cs",
+              "RelativeToolTip": "Models\\dbCursosUniversitariosContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T18:16:31.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\moyse\\OneDrive\\Documentos\\ZumbiBlocks2Backups\\Nova pasta\\ENEM ESCOLHA CURSOS\\AppCursosUniversitarios\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\moyse\\OneDrive\\Documentos\\ZumbiBlocks2Backups\\Nova pasta\\ENEM ESCOLHA CURSOS\\AppCursosUniversitarios\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-13T18:09:56.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

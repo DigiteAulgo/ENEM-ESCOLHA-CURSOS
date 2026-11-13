@@ -1,0 +1,54 @@
+@model AppCursosUniversitarios.Models.Curso
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Curso</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="NomeCurso" class="control-label"></label>
+                <input asp-for="NomeCurso" class="form-control" />
+                <span asp-validation-for="NomeCurso" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Turno" class="control-label"></label>
+                <input asp-for="Turno" class="form-control" />
+                <span asp-validation-for="Turno" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="CargaHoraria" class="control-label"></label>
+                <input asp-for="CargaHoraria" class="form-control" />
+                <span asp-validation-for="CargaHoraria" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="VagasDisponiveis" class="control-label"></label>
+                <input asp-for="VagasDisponiveis" class="form-control" />
+                <span asp-validation-for="VagasDisponiveis" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="EscolhaCursos" class="control-label"></label>
+                <input asp-for="EscolhaCursos" class="form-control" />
+                <span asp-validation-for="EscolhaCursos" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
